@@ -1,6 +1,6 @@
 # Manga Downloader
 ## Simple Manga Downloader using Python
-A mini-project to download update my personal collection of favourite mangas.
+A mini-project using BeautifulSoup to download manga chapters so I can update my personal collection of favourite mangas.
 
 ### Pre-requisites
 - re
